@@ -1,0 +1,11 @@
+C:\Users\samkh\Desktop\paint-master\bin\Debug\Paint1.exe.config
+C:\Users\samkh\Desktop\paint-master\bin\Debug\Paint1.exe
+C:\Users\samkh\Desktop\paint-master\bin\Debug\Paint1.pdb
+C:\Users\samkh\Desktop\paint-master\obj\Debug\Paint1.csprojAssemblyReference.cache
+C:\Users\samkh\Desktop\paint-master\obj\Debug\Paint1.CustomColorDialog.resources
+C:\Users\samkh\Desktop\paint-master\obj\Debug\Paint1.Form1.resources
+C:\Users\samkh\Desktop\paint-master\obj\Debug\Paint1.Properties.Resources.resources
+C:\Users\samkh\Desktop\paint-master\obj\Debug\Paint1.csproj.GenerateResource.cache
+C:\Users\samkh\Desktop\paint-master\obj\Debug\Paint1.csproj.CoreCompileInputs.cache
+C:\Users\samkh\Desktop\paint-master\obj\Debug\Paint1.exe
+C:\Users\samkh\Desktop\paint-master\obj\Debug\Paint1.pdb
